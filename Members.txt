@@ -1,0 +1,3 @@
+ID,Surname,Name,Lastname,Birthday,Telephone,City,Corpus,Apartment,Health,JoinDate
+0,Алеев,Руслан,Хитрый,2003-06-09,8800553535,Уфа,Цилиндровый,1517,Не годен,2022-03-28
+1,Сайфутдинов,Марс,Звезда,1999-09-09,88009467,Ctkj rfrjt-nj,,69,Годен,2022-02-24
